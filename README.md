@@ -15,4 +15,4 @@ Application created to learn more about ReactJS.
     - Eslint
     - Prettier
 
-* Use 'yarn dev' to run the project.
+## Use 'yarn dev' to run the project.
