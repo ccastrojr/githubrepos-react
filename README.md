@@ -4,6 +4,8 @@ That it's an web application where you can add GitHub Repositories to your list 
 
 Application created to learn more about ReactJS.
 
+* Use 'yarn dev' to run the project.
+
 # Used technologies:
   - ReactJS
   - React router dom
@@ -14,5 +16,3 @@ Application created to learn more about ReactJS.
   * Dev
     - Eslint
     - Prettier
-
-## Use 'yarn dev' to run the project.
