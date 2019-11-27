@@ -76,7 +76,6 @@ export default class Repository extends Component {
 
    handlePage = async action => {
       const { page } = this.state;
-      console.log('ok');
       await this.setState({
          page: action === 'back' ? page - 1 : page + 1,
       });
